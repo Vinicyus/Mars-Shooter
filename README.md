@@ -1,7 +1,5 @@
 # Mars-Shooter
 
-A simple snake game with pygame.
-
 
 ## Getting Started
 
